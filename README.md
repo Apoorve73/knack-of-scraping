@@ -12,4 +12,5 @@ This repository contains regularly updated codes for scraping different websites
 ```
 pip install selenium
 ```
-
+Install Chromedriver from [here](https://chromedriver.chromium.org/downloads) based on your chrome version!
+[Here](https://www.howtogeek.com/299243/WHICH-VERSION-OF-CHROME-DO-I-HAVE/) is how you can check your chrome version!
